@@ -1,2 +1,2 @@
-# JAVA-DSA
+# JAVA and DSA 
 Dsa with JAVA
