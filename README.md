@@ -1,2 +1,2 @@
-# JAVA and DSA 
-Dsa with JAVA
+# JAVA  
+This is full Java With AWT, Swing and FX.
